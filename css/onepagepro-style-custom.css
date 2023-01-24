@@ -126,7 +126,7 @@ body.onepagepro-background-pattern .onepagepro-body-outer-wrapper{ background-im
 .onepagepro-blog-title-wrap .onepagepro-blog-title-overlay{ opacity: 0; } 
 body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-style-none{ max-width: 900px; } 
 .gdlr-core-portfolio-thumbnail .gdlr-core-portfolio-icon{ font-size: 24px; } 
-.onepagepro-footer-background{ background-image: url(https://demo.goodlayers.com/onepagepro/creative/wp-content/uploads/2017/05/footer-bg.jpg); } 
+.onepagepro-footer-background{ background-image: url(/Users/emelinetitus/Portfolio/images/slider-footer.jpg); } 
 .onepagepro-footer-background{ opacity: 1; } 
 .onepagepro-footer-wrapper{ padding-top: 70px; } 
 .onepagepro-footer-wrapper{ padding-bottom: 50px; } 
@@ -177,7 +177,7 @@ body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-s
 .onepagepro-top-cart-content-wrap .onepagepro-top-cart-checkout-button, .onepagepro-top-cart-content-wrap .onepagepro-top-cart-checkout-button:hover{ color: #bd584e; } 
 .onepagepro-body .onepagepro-breadcrumbs, .onepagepro-body .onepagepro-breadcrumbs a span{ color: #c0c0c0; } 
 .onepagepro-body .onepagepro-breadcrumbs span, .onepagepro-body .onepagepro-breadcrumbs a:hover span{ color: #777777; } 
-.sf-menu > li > a, .sf-vertical > li > a{ color: #ffffff; } 
+.sf-menu > li > a, .sf-vertical > li > a{ color: #ffffff; text-shadow:  black; } 
 .sf-menu > li > a:hover, .sf-menu > li.current-menu-item > a, .sf-menu > li.current-menu-ancestor > a, .sf-vertical > li > a:hover, .sf-vertical > li.current-menu-item > a, .sf-vertical > li.current-menu-ancestor > a{ color: #ffffff; } 
 .sf-menu > .onepagepro-normal-menu li, .sf-menu > .onepagepro-mega-menu > .sf-mega, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li{ background-color: #2e2e2e; } 
 .sf-menu > li > .sub-menu a, .sf-menu > .onepagepro-mega-menu > .sf-mega a, .sf-vertical ul.sub-menu li a{ color: #dddddd; } 
@@ -189,7 +189,7 @@ body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-s
 .mm-navbar .mm-title:hover, .mm-navbar .mm-btn:hover, ul.mm-listview li a:hover, ul.mm-listview li > span:hover, ul.mm-listview li.current-menu-item > a, ul.mm-listview li.current-menu-ancestor > a, ul.mm-listview li.current-menu-ancestor > span{ color: #ffffff; } 
 .mm-menu{ background-color: #1f1f1f; } 
 ul.mm-listview li{ border-color: #626262; } 
-.onepagepro-overlay-menu-content{ background-color: #000000; background-color: rgba(0, 0, 0, 0.88); } 
+.onepagepro-overlay-menu-content{ background-color: #177979; background-color: #177979; } 
 .onepagepro-overlay-menu-content ul.menu > li, .onepagepro-overlay-menu-content ul.sub-menu ul.sub-menu{ border-color: #424242; } 
 .onepagepro-overlay-menu-content ul li a, .onepagepro-overlay-menu-content .onepagepro-overlay-menu-close{ color: #ffffff; } 
 .onepagepro-overlay-menu-content ul li a:hover{ color: #a8a8a8; } 
@@ -207,7 +207,7 @@ body.onepagepro-boxed .onepagepro-body-wrapper, .gdlr-core-page-builder .gdlr-co
 .onepagepro-page-title-wrap .onepagepro-page-title-overlay{ background-color: #2d2d2d; } 
 .onepagepro-body, .onepagepro-body span.wpcf7-not-valid-tip{ color: #7c7c7c; } 
 .onepagepro-body h1, .onepagepro-body h2, .onepagepro-body h3, .onepagepro-body h4, .onepagepro-body h5, .onepagepro-body h6{ color: #383838; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .onepagepro-head{ color: #383838; } 
-.onepagepro-body a{ color: #545454; } 
+.onepagepro-body a{ color: #ffffff; } 
 .onepagepro-body a:hover{ color: #333333; } 
 .onepagepro-body *{ border-color: #e2e2e2; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e2e2e2; -moz-column-rule-color: #e2e2e2; -webkit-column-rule-color: #e2e2e2; } 
 .onepagepro-body input, .onepagepro-body textarea{ background-color: #ffffff; } 
@@ -238,10 +238,10 @@ ul.gdlr-core-twitter-widget-wrap li:before{ color: #2aaada; }
 ul.gdlr-core-twitter-widget-wrap li .gdlr-core-twitter-widget-date a, ul.gdlr-core-twitter-widget-wrap li .gdlr-core-twitter-widget-date a:hover{ color: #ffffff; } 
 .onepagepro-footer-wrapper{ background-color: #282828; } 
 .onepagepro-footer-wrapper .onepagepro-widget-title{ color: #ffffff; }.onepagepro-footer-wrapper h1, .onepagepro-footer-wrapper h3, .onepagepro-footer-wrapper h3, .onepagepro-footer-wrapper h4, .onepagepro-footer-wrapper h5, .onepagepro-footer-wrapper h6{ color: #ffffff; }  
-.onepagepro-footer-wrapper{ color: #ababab; }.onepagepro-footer-wrapper .widget_recent_entries ul li:before, .onepagepro-footer-wrapper .widget_recent_comments ul li:before, .onepagepro-footer-wrapper .widget_pages ul li:before, .onepagepro-footer-wrapper .widget_rss ul li:before, .onepagepro-footer-wrapper .widget_archive ul li:before, .onepagepro-footer-wrapper .widget_categories ul li:before, .widget_nav_menu ul li:before, .onepagepro-footer-wrapper .widget_meta ul li:before{ color: #ababab; } 
+.onepagepro-footer-wrapper{ color: #ffffff; }.onepagepro-footer-wrapper .widget_recent_entries ul li:before, .onepagepro-footer-wrapper .widget_recent_comments ul li:before, .onepagepro-footer-wrapper .widget_pages ul li:before, .onepagepro-footer-wrapper .widget_rss ul li:before, .onepagepro-footer-wrapper .widget_archive ul li:before, .onepagepro-footer-wrapper .widget_categories ul li:before, .widget_nav_menu ul li:before, .onepagepro-footer-wrapper .widget_meta ul li:before{ color: #ababab; } 
 .onepagepro-footer-wrapper a{ color: #ffffff; } 
-.onepagepro-footer-wrapper a:hover{ color: #2aaada; } 
-.onepagepro-footer-wrapper, .onepagepro-footer-wrapper *{ border-color: #2a2a2a; } 
+.onepagepro-footer-wrapper a:hover{ color: #0b8074; } 
+.onepagepro-footer-wrapper, .onepagepro-footer-wrapper *{ border-color: #ffffff; } 
 .onepagepro-footer-wrapper .tagcloud a{ color: #ffffff; } 
 .onepagepro-footer-wrapper .tagcloud a{ background: #2a2a2a; } 
 .onepagepro-footer-wrapper .tagcloud a:hover{ background: #393939; } 
